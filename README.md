@@ -1,8 +1,7 @@
 
 # AI Image Generation using DALL-E AI in MERN Stack - Frontend Implementation
 
-This code snippet represents the frontend implementation of an AI Image Generation application based on the DALL-E AI model, integrated into the MERN (MongoDB, Express.js, React.js, Node.js) stack. The frontend is responsible for presenting a user-friendly interface where users can interact with the AI model to generate images based on textual prompts.
-
+This project is an AI Image Generation application that employs the powerful DALL-E AI model. It is skillfully integrated into the MERN (MongoDB, Express.js, React.js, Node.js) stack, providing users with a user-friendly interface to generate captivating images from textual prompts. Immerse yourself in the world of AI-driven creativity and witness the magic of turning simple text into stunning visual art.
 ## Overview:
 
 The frontend of the application is built using React.js, a popular JavaScript library for building user interfaces. It utilizes React Router for managing the application's routing and navigation. The application features a simple layout with a header containing the logo and a "Create" button for users to generate new images.
